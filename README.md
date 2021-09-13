@@ -2,7 +2,7 @@
 
 This is a table
 
-	| Syntax | Description |
+| Syntax      | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header      | Title       |
+| Paragraph   | Text        |
