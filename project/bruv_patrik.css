@@ -1,0 +1,16 @@
+.headerRight{
+    width: 80%;
+    margin: 0px auto;
+}
+.headerRightH1{
+    margin: 36px 0;
+    float: right;
+    vertical-align: middle;
+}
+.headerRightLink{
+    text-decoration: none;
+    color: inherit;
+}
+.headerRightLink:hover{
+    color: #343a4060;
+}
